@@ -1,0 +1,125 @@
+@font-face {
+  font-family: "Fonte";
+  src: url("../fonts/Campton-LightDEMO.woff2") format("woff2"),
+       url("../fonts/Campton-LightDEMO.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Fonte", Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 20px;
+  background: #f5f5f5;
+}
+
+h1 {
+  margin-bottom: 16px;
+}
+
+h2 {
+  margin-bottom: 16px;
+  margin-top: 40px;
+}
+
+/* GRID RESPONSIVA */
+.grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, 250px);
+  justify-items: start; /* centra os cards dentro das colunas */
+  justify-content: start;
+}
+
+/* CARD */
+.card {
+  width: 100%;
+  max-width: 260px; /* ligeiramente menor para melhor densidade */
+  background: white;
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+/* IMAGEM 1:1 */
+.card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  background: #fafafa;
+  border-radius: 6px;
+  padding: 2px;
+}
+
+/* TEXTO */
+.card h3 {
+  margin: 10px 0 2px 0;
+  font-size: 16px;
+}
+
+.card .color {
+  font-size: 14px;
+  color: #555;
+  margin: 0 0 10px;
+}
+
+.stock span {
+  font-size: 13px;
+}
+
+.stock{
+  margin-top: 6px;
+  font-weight: 590;
+  color: #000000;
+}
+
+.stock-block{
+  margin-top: 10px;     /* espaço entre Refill e Spool */
+}
+
+.stock-block:first-child{
+  margin-top: 0;       
+}
+
+.stock-line{
+  line-height: 1.25;    /* altura entre linhas */
+  margin-top: 0px;      /* espaço entre “Refill” e “Brevemente” */
+}
+
+.stock-line:first-child{
+  margin-top: 0;
+}
+
+.soon{
+  color: #cf853f;  
+}
+
+.stock-line{
+  display: flex;
+  gap: 5px;
+  align-items: baseline;
+}
+
+.stock-line .label,
+.stock-line .value{
+  display: inline;
+}
+
+.stock-line.soon{
+  margin-top: 2px;
+  color: #8b5a2b;
+  font-weight: 500;
+  font-size:small;
+}
+
+body{
+  -webkit-font-smoothing: antialised;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
