@@ -28,11 +28,11 @@
   {"material": "PLA Basic", "color": "Maroon Red", "image": "images/pla_basic/MaroonRed.jpg", "refill": {"stock": 1, "incoming": 2}},
   {"material": "PLA Basic", "color": "Red", "image": "images/pla_basic/Red.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 8, "incoming": 0}, "refill": {"stock": 5, "incoming": 6}},
-  {"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 11, "incoming": 0}, "refill": {"stock": 4, "incoming": 12}},
+  {"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 11, "incoming": 0}, "refill": {"stock": 2, "incoming": 12}},
 
   
   {"material": "PLA Matte", "color": "Grass Green", "image": "images/pla_matte/GrassGreen.jpg", "refill": {"stock": 2, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Sakura Pink", "image": "images/pla_matte/SakuraPink.jpg", "refill": {"stock": 3, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Sakura Pink", "image": "images/pla_matte/SakuraPink.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Lemon Yellow", "image": "images/pla_matte/LemonYellow.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Desert Tan", "image": "images/pla_matte/DesertTan.jpg", "refill": {"stock": 1, "incoming": 1}},
   {"material": "PLA Matte", "color": "Latte Brown", "image": "images/pla_matte/LatteBrown.jpg", "refill": {"stock": 1, "incoming": 0}},
