@@ -5,7 +5,7 @@
   {"material": "PLA Basic", "color": "Bronze", "image": "images/pla_basic/Bronze.jpg", "refill": {"stock": 1, "incoming": 1}},
   {"material": "PLA Basic", "color": "Silver", "image": "images/pla_basic/Silver.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Bright Green", "image": "images/pla_basic/BrightGreen.jpg", "refill": {"stock": 0, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Sunflower Yellow", "image": "images/pla_basic/SunflowerYellow.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Sunflower Yellow", "image": "images/pla_basic/SunflowerYellow.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
   {"material": "PLA Basic", "color": "Yellow", "image": "images/pla_basic/Yellow.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Gold", "image": "images/pla_basic/Gold.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Brown", "image": "images/pla_basic/Brown.jpg", "refill": {"stock": 1, "incoming": 2}},
