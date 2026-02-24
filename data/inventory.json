@@ -1,11 +1,11 @@
 [
   {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 5, "incoming": 0}},
   {"material": "PLA Basic", "color": "Mistletoe Green", "image": "images/pla_basic/MistletoeGreen.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Bambu Green", "image": "images/pla_basic/BambuGreen.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Bambu Green", "image": "images/pla_basic/BambuGreen.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
   {"material": "PLA Basic", "color": "Bronze", "image": "images/pla_basic/Bronze.jpg", "refill": {"stock": 1, "incoming": 1}},
   {"material": "PLA Basic", "color": "Silver", "image": "images/pla_basic/Silver.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Bright Green", "image": "images/pla_basic/BrightGreen.jpg", "refill": {"stock": 0, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Sunflower Yellow", "image": "images/pla_basic/SunflowerYellow.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Sunflower Yellow", "image": "images/pla_basic/SunflowerYellow.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Basic", "color": "Yellow", "image": "images/pla_basic/Yellow.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Gold", "image": "images/pla_basic/Gold.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Brown", "image": "images/pla_basic/Brown.jpg", "refill": {"stock": 1, "incoming": 2}},
@@ -26,9 +26,9 @@
   {"material": "PLA Basic", "color": "Orange", "image": "images/pla_basic/Orange.jpg", "refill": {"stock": 0, "incoming": 1}},
   {"material": "PLA Basic", "color": "Pumpkin Orange", "image": "images/pla_basic/PumpkinOrange.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Basic", "color": "Maroon Red", "image": "images/pla_basic/MaroonRed.jpg", "refill": {"stock": 3, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Red", "image": "images/pla_basic/Red.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Red", "image": "images/pla_basic/Red.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 7, "incoming": 0}, "refill": {"stock": 11, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 9, "incoming": 0}, "refill": {"stock": 11, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 8, "incoming": 0}, "refill": {"stock": 10, "incoming": 0}},
 
   
   {"material": "PLA Matte", "color": "Grass Green", "image": "images/pla_matte/GrassGreen.jpg", "refill": {"stock": 2, "incoming": 0}},
@@ -51,7 +51,7 @@
   {"material": "PLA Matte", "color": "Ice Blue", "image": "images/pla_matte/IceBlue.jpg", "refill": {"stock": 3, "incoming": 0}},
   {"material": "PLA Matte", "color": "Bone White", "image": "images/pla_matte/BoneWhite.jpg", "refill": {"stock": 2, "incoming": 1}},
   {"material": "PLA Matte", "color": "Dark Red", "image": "images/pla_matte/DarkRed.jpg", "refill": {"stock": 2, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Scarlet Red", "image": "images/pla_matte/ScarletRed.jpg", "spool": {"stock": 2, "incoming": 1}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Scarlet Red", "image": "images/pla_matte/ScarletRed.jpg", "spool": {"stock": 1, "incoming": 1}, "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Marine Blue", "image": "images/pla_matte/MarineBlue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
   {"material": "PLA Matte", "color": "Mandarin Orange", "image": "images/pla_matte/MandarinOrange.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Charcoal", "image": "images/pla_matte/Charcoal.jpg", "spool": {"stock": 11, "incoming": 0}, "refill": {"stock": 12, "incoming": 0}},
@@ -104,7 +104,7 @@
   
   {"material": "ABS", "color": "Azure", "image": "images/abs/Azure.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "BambuGreen", "image": "images/abs/BambuGreen.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
-  {"material": "ABS", "color": "Black", "image": "images/abs/Black.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+  {"material": "ABS", "color": "Black", "image": "images/abs/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
   {"material": "ABS", "color": "Blue", "image": "images/abs/Blue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "NavyBlue", "image": "images/abs/NavyBlue.jpg", "refill": {"stock": 1, "incoming": 0}},
   {"material": "ABS", "color": "Olive", "image": "images/abs/Olive.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
