@@ -56,9 +56,11 @@ fetch("data/inventory.json")
                 <span class="value">${stock}</span>
               </div>
 
-              <div class="stock-line soon ${incoming > 0 ? "" : "soon--empty"}">
-                ${incoming > 0 ? `Brevemente: ${incoming}` : `Brevemente: 0`}
-              </div>
+              ${incoming > 0 ? `
+                <div class="stock-line soon">
+                  Brevemente: ${incoming}
+                </div>
+              ` : ``}
             </div>
           `;
         }
@@ -74,7 +76,12 @@ fetch("data/inventory.json")
                 <span class="label">Spool:</span>
                 <span class="value">${stock}</span>
               </div>
-              <div class="stock-line soon">Brevemente: ${incoming}</div>
+
+              ${incoming > 0 ? `
+                <div class="stock-line soon">
+                  Brevemente: ${incoming}
+                </div>
+              ` : ``}
             </div>
           `;
         }
