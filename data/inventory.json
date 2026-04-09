@@ -120,5 +120,10 @@
   {"material": "ABS", "color": "Red", "image": "images/abs/Red.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "Orange", "image": "images/abs/Orange.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "TangerineYellow", "image": "images/abs/TangerineYellow.jpg", "refill": {"stock": 1, "incoming": 0}},
-  {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}}
+  {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+
+
+
+
+  {"material": "Acessórios", "color": "A1 Hardened steel nozzle 0.4mm", "image":"images/acessórios/A1_Hardened_steel_nozzle_0.4mm.jpg" }
 ]
