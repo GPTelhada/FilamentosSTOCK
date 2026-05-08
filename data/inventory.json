@@ -52,7 +52,7 @@
   {"material": "PLA Matte", "color": "Lemon Yellow", "image": "images/pla_matte/LemonYellow.jpg", "refill": {"stock": 4, "incoming": 0}},
   {"material": "PLA Matte", "color": "Desert Tan", "image": "images/pla_matte/DesertTan.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Latte Brown", "image": "images/pla_matte/LatteBrown.jpg", "refill": {"stock": 2, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Caramel", "image": "images/pla_matte/Caramel.jpg", "refill": {"stock": 1, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Caramel", "image": "images/pla_matte/Caramel.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Terracotta", "image": "images/pla_matte/Terracotta.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Dark Brown", "image": "images/pla_matte/DarkBrown.jpg", "refill": {"stock": 4, "incoming": 0}},
   {"material": "PLA Matte", "color": "Dark Chocolate", "image": "images/pla_matte/DarkChocolate.jpg", "refill": {"stock": 0, "incoming": 0}},
