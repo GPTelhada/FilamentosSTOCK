@@ -114,7 +114,7 @@
 
   
 
-  {"material": "ABS", "color": "White", "image": "images/abs/White.jpg", "spool": {"stock": 3, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+  {"material": "ABS", "color": "White", "image": "images/abs/White.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
   {"material": "ABS", "color": "Black", "image": "images/abs/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "Azure", "image": "images/abs/Azure.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "ABS", "color": "BambuGreen", "image": "images/abs/BambuGreen.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
