@@ -82,11 +82,11 @@
 
 
 
-  {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 13, "incoming": 0}},
-  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 12, "incoming": 0}},
+  {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 12, "incoming": 0}},
+  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 11, "incoming": 0}},
   {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Lake Blue", "image": "images/petg_hf/LakeBlue.jpg", "spool": {"stock": 0, "incoming": 0}},
-  {"material": "PETG HF", "color": "Green", "image": "images/petg_hf/Green.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+  {"material": "PETG HF", "color": "Green", "image": "images/petg_hf/Green.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Lime Green", "image": "images/petg_hf/LimeGreen.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Forest Green", "image": "images/petg_hf/ForestGreen.jpg", "spool": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Red", "image": "images/petg_hf/Red.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
@@ -101,7 +101,7 @@
 
 
 
-  {"material": "PETG Translucent", "color": "Translucent Clear", "image": "images/petg_translucent/Clear.jpg", "spool": {"stock": 5, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+  {"material": "PETG Translucent", "color": "Translucent Clear", "image": "images/petg_translucent/Clear.jpg", "spool": {"stock": 4, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG Translucent", "color": "Translucent Teal", "image": "images/petg_translucent/Teal.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG Translucent", "color": "Translucent Light Blue", "image": "images/petg_translucent/LightBlue.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG Translucent", "color": "Translucent Purple", "image": "images/petg_translucent/Purple.jpg", "refill": {"stock": 0, "incoming": 0}},
