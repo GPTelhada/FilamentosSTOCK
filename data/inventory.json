@@ -53,7 +53,7 @@
   {"material": "PLA Matte", "color": "Dark Red", "image": "images/pla_matte/DarkRed.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Lemon Yellow", "image": "images/pla_matte/LemonYellow.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Desert Tan", "image": "images/pla_matte/DesertTan.jpg", "refill": {"stock": 6, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Latte Brown", "image": "images/pla_matte/LatteBrown.jpg", "refill": {"stock": 1, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Latte Brown", "image": "images/pla_matte/LatteBrown.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Caramel", "image": "images/pla_matte/Caramel.jpg", "refill": {"stock": 0, "incoming": 2}},
   {"material": "PLA Matte", "color": "Terracotta", "image": "images/pla_matte/Terracotta.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Dark Brown", "image": "images/pla_matte/DarkBrown.jpg", "refill": {"stock": 4, "incoming": 0}},
@@ -82,9 +82,9 @@
 
 
 
-  {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 10, "incoming": 0}},
-  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
-  {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+  {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 9, "incoming": 0}},
+  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 15}},
+  {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Lake Blue", "image": "images/petg_hf/LakeBlue.jpg", "spool": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Green", "image": "images/petg_hf/Green.jpg", "spool": {"stock": 0, "incoming": 1}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Lime Green", "image": "images/petg_hf/LimeGreen.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
