@@ -127,14 +127,14 @@
   {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
 
 
-  {"material": "TPU For AMS - 40€", "color": "White", "image": "images/tpu_ams/white.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "TPU For AMS - 40€", "color": "White", "image": "images/tpu_ams/white.jpg", "spool": {"stock": 1, "incoming": 0}},
 
-  {"material": "TPU 95A HF - 35€", "color": "Black", "image": "images/tpu_95AHF/Black.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
-  {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "TPU 95A HF - 35€", "color": "Black", "image": "images/tpu_95AHF/Black.jpg", "spool": {"stock": 1, "incoming": 0}},
+  {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 1, "incoming": 0}},
   
-  {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 1, "incoming": 0}},
   
-  {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 
 
