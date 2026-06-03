@@ -26,7 +26,7 @@
   {"material": "PLA Basic", "color": "Orange", "image": "images/pla_basic/Orange.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Pumpkin Orange", "image": "images/pla_basic/PumpkinOrange.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Maroon Red", "image": "images/pla_basic/MaroonRed.jpg", "refill": {"stock": 2, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Red", "image": "images/pla_basic/Red.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 4, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Red", "image": "images/pla_basic/Red.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
   {"material": "PLA Basic", "color": "Brown", "image": "images/pla_basic/Brown.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Basic", "color": "Cacoa Brown", "image": "images/pla_basic/CocoaBrown.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
 
