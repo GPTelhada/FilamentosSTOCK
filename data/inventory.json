@@ -1,7 +1,7 @@
 [
   {"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 3, "incoming": 0}, "refill": {"stock": 8, "incoming": 0}},
   {"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 7, "incoming": 0}, "refill": {"stock": 4, "incoming": 0}},
-  {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 6, "incoming": 0}},
+  {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 5, "incoming": 0}},
   {"material": "PLA Basic", "color": "Dark Gray", "image": "images/pla_basic/DarkGray.jpg", "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Basic", "color": "Gray", "image": "images/pla_basic/Gray.jpg", "spool": {"stock": 5, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
   {"material": "PLA Basic", "color": "Light Gray", "image": "images/pla_basic/LightGray.jpg", "refill": {"stock": 3, "incoming": 0}},
@@ -34,8 +34,8 @@
 
 
 
-  {"material": "PLA Matte", "color": "Charcoal", "image": "images/pla_matte/Charcoal.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Ivory White", "image": "images/pla_matte/IvoryWhite.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 12, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Charcoal", "image": "images/pla_matte/Charcoal.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Ivory White", "image": "images/pla_matte/IvoryWhite.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 11, "incoming": 0}},
   {"material": "PLA Matte", "color": "Bone White", "image": "images/pla_matte/BoneWhite.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Nardo Gray", "image": "images/pla_matte/NardoGray.jpg", "refill": {"stock": 1, "incoming": 0}},
   {"material": "PLA Matte", "color": "Ash Gray", "image": "images/pla_matte/AshGray.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
@@ -49,7 +49,7 @@
   {"material": "PLA Matte", "color": "Lilac Purple", "image": "images/pla_matte/LilacPurple.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Sakura Pink", "image": "images/pla_matte/SakuraPink.jpg", "refill": {"stock": 3, "incoming": 0}},
   {"material": "PLA Matte", "color": "Plum", "image": "images/pla_matte/Plum.jpg", "refill": {"stock": 1, "incoming": 0}},
-  {"material": "PLA Matte", "color": "Scarlet Red", "image": "images/pla_matte/ScarletRed.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+  {"material": "PLA Matte", "color": "Scarlet Red", "image": "images/pla_matte/ScarletRed.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PLA Matte", "color": "Dark Red", "image": "images/pla_matte/DarkRed.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "PLA Matte", "color": "Lemon Yellow", "image": "images/pla_matte/LemonYellow.jpg", "refill": {"stock": 3, "incoming": 0}},
   {"material": "PLA Matte", "color": "Desert Tan", "image": "images/pla_matte/DesertTan.jpg", "refill": {"stock": 5, "incoming": 0}},
@@ -83,7 +83,7 @@
 
 
   {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 6, "incoming": 0}},
-  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 7, "incoming": 0}},
+  {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 6, "incoming": 0}},
   {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Lake Blue", "image": "images/petg_hf/LakeBlue.jpg", "spool": {"stock": 0, "incoming": 0}},
   {"material": "PETG HF", "color": "Green", "image": "images/petg_hf/Green.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
@@ -124,17 +124,18 @@
   {"material": "ABS", "color": "Red", "image": "images/abs/Red.jpg", "refill": {"stock": 2, "incoming": 0}},
   {"material": "ABS", "color": "Orange", "image": "images/abs/Orange.jpg", "refill": {"stock": 1, "incoming": 0}},
   {"material": "ABS", "color": "TangerineYellow", "image": "images/abs/TangerineYellow.jpg", "refill": {"stock": 1, "incoming": 0}},
-  {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+  {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
+  {"material": "ASA - 20€", "color": "Black", "image": "images/asa/Black.jpg", "refill": {"stock": 1, "incoming": 0}},
 
-  {"material": "TPU For AMS - 40€", "color": "White", "image": "images/tpu_ams/white.jpg", "spool": {"stock": 0, "incoming": 0}},
+  {"material": "TPU For AMS - 40€", "color": "White", "image": "images/tpu_ams/white.jpg", "spool": {"stock": 1, "incoming": 0}},
 
   {"material": "TPU 95A HF - 35€", "color": "Black", "image": "images/tpu_95AHF/Black.jpg", "spool": {"stock": 0, "incoming": 0}},
-  {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 0, "incoming": 0}},
+  {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 1, "incoming": 0}},
   
-  {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 0, "incoming": 0}},
+  {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 1, "incoming": 0}},
   
-  {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 0, "incoming": 0}},
+  {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 
 
