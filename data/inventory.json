@@ -126,7 +126,7 @@
   {"material": "ABS", "color": "TangerineYellow", "image": "images/abs/TangerineYellow.jpg", "refill": {"stock": 1, "incoming": 0}},
   {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
-  {"material": "ASA - 20€", "color": "Black", "image": "images/asa/Black.jpg", "refill": {"stock": 1, "incoming": 0}},
+  {"material": "ASA - 20€", "color": "Black", "image": "images/asa/Black.jpg", "Spool": {"stock": 3, "incoming": 0}},
 
   {"material": "TPU For AMS - 40€", "color": "White", "image": "images/tpu_ams/white.jpg", "spool": {"stock": 1, "incoming": 0}},
 
