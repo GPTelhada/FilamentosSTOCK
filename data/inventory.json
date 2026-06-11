@@ -34,7 +34,7 @@
 
 
 
-{"material": "PLA Matte", "color": "Charcoal", "image": "images/pla_matte/Charcoal.jpg", "spool": {"stock": 0, "incoming": 12}, "refill": {"stock": 15, "incoming": 1}},
+{"material": "PLA Matte", "color": "Charcoal", "image": "images/pla_matte/Charcoal.jpg", "spool": {"stock": 0, "incoming": 12}, "refill": {"stock": 11, "incoming": 1}},
 {"material": "PLA Matte", "color": "Ivory White", "image": "images/pla_matte/IvoryWhite.jpg", "spool": {"stock": 4, "incoming": 8}, "refill": {"stock": 26, "incoming": 0}},
 {"material": "PLA Matte", "color": "Bone White", "image": "images/pla_matte/BoneWhite.jpg", "refill": {"stock": 8, "incoming": 0}},
 {"material": "PLA Matte", "color": "Nardo Gray", "image": "images/pla_matte/NardoGray.jpg", "refill": {"stock": 2, "incoming": 0}},
