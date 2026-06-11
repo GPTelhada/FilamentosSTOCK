@@ -1,9 +1,9 @@
 [
-{"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 15, "incoming": 0}, "refill": {"stock": 31, "incoming": 0}},
-{"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 20, "incoming": 0}, "refill": {"stock": 27, "incoming": 0}},
+{"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 15, "incoming": 0}, "refill": {"stock": 30, "incoming": 0}},
+{"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 20, "incoming": 0}, "refill": {"stock": 26, "incoming": 0}},
 {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 9, "incoming": 0}},
 {"material": "PLA Basic", "color": "Dark Gray", "image": "images/pla_basic/DarkGray.jpg", "refill": {"stock": 6, "incoming": 0}},
-{"material": "PLA Basic", "color": "Gray", "image": "images/pla_basic/Gray.jpg", "spool": {"stock": 8, "incoming": 0}, "refill": {"stock": 4, "incoming": 0}},
+{"material": "PLA Basic", "color": "Gray", "image": "images/pla_basic/Gray.jpg", "spool": {"stock": 8, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
 {"material": "PLA Basic", "color": "Light Gray", "image": "images/pla_basic/LightGray.jpg", "refill": {"stock": 2, "incoming": 0}},
 {"material": "PLA Basic", "color": "Blue Gray", "image": "images/pla_basic/BlueGray.jpg", "refill": {"stock": 2, "incoming": 0}},
 {"material": "PLA Basic", "color": "Bronze", "image": "images/pla_basic/Bronze.jpg", "refill": {"stock": 3, "incoming": 0}},
@@ -73,7 +73,7 @@
 {"material": "PLA Silk", "color": "Pink", "image": "images/pla_silk/Pink.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Champagne", "image": "images/pla_silk/Champagne.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Rose Gold", "image": "images/pla_silk/RoseGold.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "PLA Silk", "color": "Gold", "image": "images/pla_silk/Gold.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 12, "incoming": 0}},
+{"material": "PLA Silk", "color": "Gold", "image": "images/pla_silk/Gold.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 10, "incoming": 0}},
 {"material": "PLA Silk", "color": "Silver", "image": "images/pla_silk/Silver.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Titan Gray", "image": "images/pla_silk/TitanGray.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
@@ -107,7 +107,7 @@
 {"material": "PETG Translucent", "color": "Translucent Orange", "image": "images/petg_translucent/Orange.jpg", "refill": {"stock": 2, "incoming": 0}},
 {"material": "PETG Translucent", "color": "Translucent Gray", "image": "images/petg_translucent/Gray.jpg", "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG Translucent", "color": "Translucent Brown", "image": "images/petg_translucent/Brown.jpg", "refill": {"stock": 0, "incoming": 0}},
-{"material": "PETG Translucent", "color": "Translucent Olive", "image": "images/petg_translucent/Olive.jpg", "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Translucent", "color": "Translucent Olive", "image": "images/petg_translucent/Olive.jpg", "refill": {"stock": 1, "incoming": 0}},
 
   
 {"material": "ABS", "color": "White", "image": "images/abs/White.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 8, "incoming": 0}},
@@ -123,7 +123,7 @@
 {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
   
 
-{"material": "ASA - 20€", "color": "Black", "image": "images/asa/Black.jpg", "spool": {"stock": 6, "incoming": 0}},
+{"material": "ASA - 20€", "color": "Black", "image": "images/asa/black.jpg", "spool": {"stock": 6, "incoming": 0}},
 
 
 
