@@ -107,7 +107,7 @@ h2 {
 
 .stock-line{
   line-height: 1.25;    /* altura entre linhas */
-  margin-top: 0px;      /* espaço entre “Refill” e “Brevemente” */
+  margin-top: 0px;      /* espaço entre "Refill" e "Brevemente" */
 }
 
 .stock-line:first-child{
@@ -140,4 +140,63 @@ body{
   -webkit-font-smoothing: antialised;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
+}
+
+
+/* ── TABS ────────────────────────────────────────────────── */
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border-bottom: 1px solid #ddd;
+  margin-top: 24px;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.tab-btn {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;           /* overlap the nav border-bottom */
+  padding: 10px 20px;
+  font-family: "Fonte", Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #999;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.15s, border-color 0.15s;
+  letter-spacing: 0.01em;
+}
+
+.tab-btn:hover {
+  color: #444;
+}
+
+.tab-btn.active {
+  color: #111;
+  font-weight: 700;
+  border-bottom-color: #111;
+}
+
+/* panels */
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}
+
+/* override h2 top margin for first heading inside a panel */
+.tab-panel h2:first-child {
+  margin-top: 5vh;
+}
+
+/* empty state */
+.tab-empty {
+  margin-top: 40px;
+  color: #aaa;
+  font-size: 15px;
 }
