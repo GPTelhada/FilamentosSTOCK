@@ -79,6 +79,50 @@
 
 
 
+{"material": "PLA Sparkle", "color": "Classic Gold Sparkle", "image": "images/pla_sparkle/Gold.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Sparkle", "color": "Onyx Black Sparkle", "image": "images/pla_sparkle/Onyx.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+{"material": "PLA Galaxy", "color": "Purple", "image": "images/pla_galaxy/Purple.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
+
+{"material": "PLA Silk Multi-Color", "color": "Phantom Blue", "image": "images/pla_silk_multi/PhantomBlue.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Silk Multi-Color", "color": "Aurora Purple", "image": "images/pla_silk_multi/AuroraPurple.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Silk Multi-Color", "color": "Gilded Rose", "image": "images/pla_silk_multi/GildedRose.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Silk Multi-Color", "color": "Velvet Eclipse", "image": "images/pla_silk_multi/VelvetEclipse.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Silk Multi-Color", "color": "Neon City", "image": "images/pla_silk_multi/NeonCity.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Silk Multi-Color", "color": "Blue Hawaii", "image": "images/pla_silk_multi/BlueHawaii.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
+
+{"material": "PLA Basic Gradient", "color": "Cotton Candy Cloud", "image": "images/pla_gradient/CottonCandy.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
+{"material": "PLA Glow", "color": "Orange", "image": "images/pla_glow/Orange.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Glow", "color": "Blue", "image": "images/pla_glow/Blue.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
+{"material": "PLA Wood", "color": "Clay Brown", "image": "images/pla_wood/ClayBrown.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Wood", "color": "White Oak", "image": "images/pla_wood/WhiteOak.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+{"material": "PLA Marble", "color": "White marble", "image": "images/pla_marble/White.jpg", "spool": {"stock": 0, "incoming": 4}},
+
+
+
+{"material": "PLA Metal", "color": "Copper Brown Metallic", "image": "images/pla_metal/Copper.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
+
+
+
+
 
 {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 13, "incoming": 0}},
 {"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 12, "incoming": 0}},
