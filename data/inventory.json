@@ -100,6 +100,21 @@
 
 
 
+{"material": "PETG Basic", "color": "Black", "image": "images/petg_basic/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PETG Basic", "color": "White", "image": "images/petg_basic/White.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PETG Basic", "color": "Beige", "image": "images/petg_basic/Beige.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Gray", "image": "images/petg_basic/Gray.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PETG Basic", "color": "Dark Brown", "image": "images/petg_basic/DarkBrown.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Misty Blue", "image": "images/petg_basic/MistyBlue.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Navy Blue", "image": "images/petg_basic/NavyBlue.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Reflex Blue", "image": "images/petg_basic/ReflexBlue.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Red", "image": "images/petg_basic/Red.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Orange", "image": "images/petg_basic/Orange.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Green", "image": "images/petg_basic/Green.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Pine Green", "image": "images/petg_basic/PineGreen.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+{"material": "PETG Basic", "color": "Yellow", "image": "images/petg_basic/Yellow.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
+
+
 
 
 {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 9, "incoming": 0}},
