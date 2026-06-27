@@ -87,13 +87,23 @@
 {"material": "PLA Silk Multi-Color - 25€", "color": "Aurora Purple", "image": "images/pla_silk_multi/AuroraPurple.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Gilded Rose", "image": "images/pla_silk_multi/GildedRose.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Velvet Eclipse", "image": "images/pla_silk_multi/VelvetEclipse.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "PLA Silk Multi-Color - 25€", "color": "Neon City", "image": "images/pla_silk_multi/NeonCity.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Silk Multi-Color - 25€", "color": "Neon City", "image": "images/pla_silk_multi/NeonCity.jpg", "spool": {"stock": 1, "incoming": 1}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Blue Hawaii", "image": "images/pla_silk_multi/BlueHawaii.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "PLA Basic Gradient - 25€", "color": "Cotton Candy Cloud", "image": "images/pla_gradient/CottonCandy.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "PLA Glow - 25€", "color": "Orange", "image": "images/pla_glow/Orange.jpg", "spool": {"stock": 0, "incoming": 0}},
-{"material": "PLA Glow - 25€", "color": "Blue", "image": "images/pla_glow/Blue.jpg", "spool": {"stock": 0, "incoming": 0}},
-{"material": "PLA Wood - 25€", "color": "Clay Brown", "image": "images/pla_wood/ClayBrown.jpg", "spool": {"stock": 0, "incoming": 0}},
+{"material": "PLA Glow - 25€", "color": "Orange", "image": "images/pla_glow/Orange.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Glow - 25€", "color": "Blue", "image": "images/pla_glow/Blue.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Glow - 25€", "color": "Green", "image": "images/pla_glow/Green.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Glow - 25€", "color": "Pink", "image": "images/pla_glow/Pink.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+{"material": "PLA Wood - 25€", "color": "Clay Brown", "image": "images/pla_wood/ClayBrown.jpg", "spool": {"stock": 0, "incoming": 1}},
 {"material": "PLA Wood - 25€", "color": "White Oak", "image": "images/pla_wood/WhiteOak.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Wood - 25€", "color": "Rosewood", "image": "images/pla_wood/Rosewood.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Wood - 25€", "color": "Classic Birch", "image": "images/pla_wood/ClassicBirch.jpg", "spool": {"stock": 0, "incoming": 1}},
+{"material": "PLA Wood - 25€", "color": "Ochre Yellow", "image": "images/pla_wood/OchreYellow.jpg", "spool": {"stock": 0, "incoming": 1}},
+
+
+
 {"material": "PLA Marble - 25€", "color": "White marble", "image": "images/pla_marble/White.jpg", "spool": {"stock": 4, "incoming": 0}},
 {"material": "PLA Metal - 25€", "color": "Copper Brown Metallic", "image": "images/pla_metal/Copper.jpg", "spool": {"stock": 1, "incoming": 0}},
 
