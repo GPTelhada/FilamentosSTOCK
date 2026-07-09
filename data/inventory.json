@@ -74,7 +74,7 @@
 {"material": "PLA Silk", "color": "Pink", "image": "images/pla_silk/Pink.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Champagne", "image": "images/pla_silk/Champagne.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Rose Gold", "image": "images/pla_silk/RoseGold.jpg", "spool": {"stock": 4, "incoming": 2}},
-{"material": "PLA Silk", "color": "Gold", "image": "images/pla_silk/Gold.jpg", "spool": {"stock": 0, "incoming": 5}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PLA Silk", "color": "Gold", "image": "images/pla_silk/Gold.jpg", "spool": {"stock": 0, "incoming": 5}, "refill": {"stock": 10, "incoming": 0}},
 {"material": "PLA Silk", "color": "Silver", "image": "images/pla_silk/Silver.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Titan Gray", "image": "images/pla_silk/TitanGray.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
@@ -127,8 +127,8 @@
 
 
 
-{"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 3, "incoming": 0}},
-{"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 13, "incoming": 0}},
+{"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 10, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG HF", "color": "Lake Blue", "image": "images/petg_hf/LakeBlue.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PETG HF", "color": "Green", "image": "images/petg_hf/Green.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
