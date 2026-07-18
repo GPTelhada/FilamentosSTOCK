@@ -38,7 +38,7 @@
 {"material": "PLA Matte", "color": "Ivory White", "image": "images/pla_matte/IvoryWhite.jpg", "spool": {"stock": 7, "incoming": 0}, "refill": {"stock": 21, "incoming": 0}},
 {"material": "PLA Matte", "color": "Bone White", "image": "images/pla_matte/BoneWhite.jpg", "refill": {"stock": 6, "incoming": 0}},
 {"material": "PLA Matte", "color": "Nardo Gray", "image": "images/pla_matte/NardoGray.jpg", "refill": {"stock": 1, "incoming": 0}},
-{"material": "PLA Matte", "color": "Ash Gray", "image": "images/pla_matte/AshGray.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 5, "incoming": 0}},
+{"material": "PLA Matte", "color": "Ash Gray", "image": "images/pla_matte/AshGray.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 4, "incoming": 0}},
 {"material": "PLA Matte", "color": "Grass Green", "image": "images/pla_matte/GrassGreen.jpg", "refill": {"stock": 6, "incoming": 0}},
 {"material": "PLA Matte", "color": "Apple Green", "image": "images/pla_matte/AppleGreen.jpg", "refill": {"stock": 2, "incoming": 0}},
 {"material": "PLA Matte", "color": "Dark Green", "image": "images/pla_matte/DarkGreen.jpg", "refill": {"stock": 10, "incoming": 0}},
