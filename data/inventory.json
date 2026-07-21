@@ -80,7 +80,7 @@
 
 
 
-{"material": "PLA Sparkle - 25€", "color": "Classic Gold Sparkle", "image": "images/pla_sparkle/Gold.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Sparkle - 25€", "color": "Classic Gold Sparkle", "image": "images/pla_sparkle/Gold.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Sparkle - 25€", "color": "Onyx Black Sparkle", "image": "images/pla_sparkle/Onyx.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Galaxy - 25€", "color": "Purple", "image": "images/pla_galaxy/Purple.jpg", "spool": {"stock": 1, "incoming": 0}},
 
