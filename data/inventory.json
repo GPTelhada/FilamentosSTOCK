@@ -173,7 +173,7 @@
 {"material": "ABS", "color": "TangerineYellow", "image": "images/abs/TangerineYellow.jpg", "refill": {"stock": 1, "incoming": 0}},
 {"material": "ABS", "color": "Silver", "image": "images/abs/Silver.jpg", "spool": {"stock": 2, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
-{"material": "ASA - 20€", "color": "Black", "image": "images/asa/black.jpg", "spool": {"stock": 0, "incoming": 0}},
+{"material": "ASA - 20€", "color": "Black", "image": "images/asa/black.jpg", "spool": {"stock": 10, "incoming": 0}},
 {"material": "ASA - 20€", "color": "White", "image": "images/asa/white.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 
