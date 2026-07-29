@@ -107,7 +107,7 @@
 
 
 
-{"material": "PLA Marble - 25€", "color": "White marble", "image": "images/pla_marble/White.jpg", "spool": {"stock": 2, "incoming": 0}},
+{"material": "PLA Marble - 25€", "color": "White marble", "image": "images/pla_marble/White.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Metal - 25€", "color": "Copper Brown Metallic", "image": "images/pla_metal/Copper.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 
