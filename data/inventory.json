@@ -97,7 +97,7 @@
 {"material": "PLA Glow - 25€", "color": "Blue", "image": "images/pla_glow/Blue.jpg", "spool": {"stock": 2, "incoming": 0}},
 {"material": "PLA Glow - 25€", "color": "Green", "image": "images/pla_glow/Green.jpg", "spool": {"stock": 3, "incoming": 0}},
 {"material": "PLA Glow - 25€", "color": "Pink", "image": "images/pla_glow/Pink.jpg", "spool": {"stock": 1, "incoming": 0}},
-
+{"material": "PLA Glow - 25€", "color": "Yellow", "image": "images/pla_glow/Yellow.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 {"material": "PLA Wood - 25€", "color": "Clay Brown", "image": "images/pla_wood/ClayBrown.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "PLA Wood - 25€", "color": "White Oak", "image": "images/pla_wood/WhiteOak.jpg", "spool": {"stock": 0, "incoming": 0}},
