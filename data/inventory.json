@@ -1,5 +1,5 @@
 [
-{"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 9, "incoming": 0}, "refill": {"stock": 10, "incoming": 0}},
+{"material": "PLA Basic", "color": "Black", "image": "images/pla_basic/Black.jpg", "spool": {"stock": 8, "incoming": 0}, "refill": {"stock": 10, "incoming": 0}},
 {"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 5, "incoming": 0}, "refill": {"stock": 9, "incoming": 0}},
 {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 6, "incoming": 0}},
 {"material": "PLA Basic", "color": "Dark Gray", "image": "images/pla_basic/DarkGray.jpg", "refill": {"stock": 10, "incoming": 0}},
