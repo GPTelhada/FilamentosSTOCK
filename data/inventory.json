@@ -183,6 +183,6 @@
 {"material": "TPU 95A HF - 35€", "color": "Black", "image": "images/tpu_95AHF/Black.jpg", "spool": {"stock": 2, "incoming": 0}},
 {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 0, "incoming": 0}},
-{"material": "TPU 90A - 44€", "color": "Black", "image": "", "spool": {"stock": 1, "incoming": 0}},
+{"material": "TPU 90A - 44€", "color": "Black", "image": "", "spool": {"stock": 0, "incoming": 0}},
 {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 1, "incoming": 0}}
 ]
