@@ -80,6 +80,27 @@
 
 
 
+{"material": "PLA Translucent", "color": "Teal", "image": "images/pla_translucent/Teal.jpg", "spool": {"stock": 0, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Light Jade", "image": "images/pla_translucent/LightJade.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Ice Blue", "image": "images/pla_translucent/IceBlue.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Blue", "image": "images/pla_translucent/Blue.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Purple", "image": "images/pla_translucent/Purple.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Lavender", "image": "images/pla_translucent/Lavender.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Cherry Pink", "image": "images/pla_translucent/CherryPink.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Orange", "image": "images/pla_translucent/Orange.jpg", "spool": {"stock": 0, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Red", "image": "images/pla_translucent/Orange.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Translucent", "color": "Mellow Yellow", "image": "images/pla_translucent/MellowYellow.jpg", "spool": {"stock": 1, "incoming": 0}},
+
+
+
+{"material": "PLA Pure", "color": "Absolute Black", "image": "images/pla_pure/AbsoluteBlack.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PLA Pure", "color": "Pure White", "image": "images/pla_pure/PureWhite.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PLA Pure", "color": "Milky Pink", "image": "images/pla_pure/MilkyPink.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PLA Pure", "color": "Baby Blue", "image": "images/pla_pure/BabyBlue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PLA Pure", "color": "Apricot", "image": "images/pla_pure/Apricot.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+
+
+
 {"material": "PLA Sparkle - 25€", "color": "Classic Gold Sparkle", "image": "images/pla_sparkle/Gold.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Sparkle - 25€", "color": "Onyx Black Sparkle", "image": "images/pla_sparkle/Onyx.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Galaxy - 25€", "color": "Purple", "image": "images/pla_galaxy/Purple.jpg", "spool": {"stock": 1, "incoming": 0}},
@@ -189,10 +210,13 @@
 
 
 
-{"material": "Build Plate (X1, P1, A1, P2)", "color": "Smooth and Textured PEI - 35€", "image": "images/build_plate/Smooth_and_Textured_PEI.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "Build Plate (X1, P1, A1, P2)", "color": "Cool Plate (SuperTack) - 32€", "image": "images/build_plate/Cool_Plate.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "Build Plate (X1, P1, A1, P2)", "color": "Diamond 3D Effect - 18€", "image": "images/build_plate/Diamond_3D_Effect.jpg", "spool": {"stock": 1, "incoming": 0}},
-{"material": "Build Plate (X1, P1, A1, P2)", "color": "Galaxy 3D Effect - 18€", "image": "images/build_plate/Galaxy_3D_Effect.jpg", "spool": {"stock": 1, "incoming": 0}}
+{"material": "Build Plate (X1, P1, A1, P2)", "color": "Smooth and Textured PEI - 35€", "image": "images/build_plates/Smooth_and_Textured_PEI.jpg", "quantity": {"stock": 1, "incoming": 0}},
+{"material": "Build Plate (X1, P1, A1, P2)", "color": "Cool Plate (SuperTack) - 32€", "image": "images/build_plates/Cool_Plate.jpg", "quantity": {"stock": 1, "incoming": 0}},
+{"material": "Build Plate (X1, P1, A1, P2)", "color": "Diamond 3D Effect - 18€", "image": "images/build_plates/Diamond_3D_Effect.jpg", "quantity": {"stock": 1, "incoming": 0}},
+{"material": "Build Plate (X1, P1, A1, P2)", "color": "Galaxy 3D Effect - 18€", "image": "images/build_plates/Galaxy_3D_Effect.jpg", "quantity": {"stock": 1, "incoming": 0}},
+
+
+{"material": "AMS", "color": "AMS 2 Pro (280€)", "image": "images/ams/ams2pro.jpg", "quantity": {"stock": 1, "incoming": 0}}
 
 
 ]
