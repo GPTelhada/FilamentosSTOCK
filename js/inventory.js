@@ -5,6 +5,7 @@ const TAB_GROUPS = [
   { label: "ABS & ASA",       id: "absasa", prefixes: ["ABS", "ASA"] },
   { label: "TPU",             id: "tpu",    prefixes: ["TPU"] },
   { label: "PA6, PAHT & PET", id: "pa",     prefixes: ["PA6", "PAHT", "PET"] },
+  { label: "Outros",          id: "outros", prefixes: ["Build Plate (X1, P1, A1, P2)"] },
 ];
 
 // Match a material name to a tab's prefix list.
