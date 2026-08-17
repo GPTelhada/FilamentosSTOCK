@@ -3,7 +3,7 @@
 {"material": "PLA Basic", "color": "White", "image": "images/pla_basic/White.jpg", "spool": {"stock": 0, "incoming": 8}, "refill": {"stock": 5, "incoming": 10}},
 {"material": "PLA Basic", "color": "Beige", "image": "images/pla_basic/Beige.jpg", "refill": {"stock": 3, "incoming": 0}},
 {"material": "PLA Basic", "color": "Dark Gray", "image": "images/pla_basic/DarkGray.jpg", "refill": {"stock": 6, "incoming": 0}},
-{"material": "PLA Basic", "color": "Gray", "image": "images/pla_basic/Gray.jpg", "spool": {"stock": 0, "incoming": 3}, "refill": {"stock": 0, "incoming": 2}},
+{"material": "PLA Basic", "color": "Gray", "image": "images/pla_basic/Gray.jpg", "spool": {"stock": 0, "incoming": 3}, "refill": {"stock": 0, "incoming": 3}},
 {"material": "PLA Basic", "color": "Light Gray", "image": "images/pla_basic/LightGray.jpg", "refill": {"stock": 5, "incoming": 0}},
 {"material": "PLA Basic", "color": "Blue Gray", "image": "images/pla_basic/BlueGray.jpg", "refill": {"stock": 0, "incoming": 1}},
 {"material": "PLA Basic", "color": "Bronze", "image": "images/pla_basic/Bronze.jpg", "refill": {"stock": 6, "incoming": 0}},
@@ -204,7 +204,7 @@
 {"material": "TPU 95A HF - 35€", "color": "Black", "image": "images/tpu_95AHF/Black.jpg", "spool": {"stock": 2, "incoming": 0}},
 {"material": "TPU 95A HF - 35€", "color": "Red", "image": "images/tpu_95AHF/Red.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "TPU 90A - 44€", "color": "White", "image": "images/tpu_90A/White.jpg", "spool": {"stock": 0, "incoming": 0}},
-{"material": "TPU 90A - 44€", "color": "Black", "image": "images/tpu_90A/black.jpg", "spool": {"stock": 0, "incoming": 0}},
+{"material": "TPU 90A - 44€", "color": "Black", "image": "images/tpu_90A/black.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "TPU 85A - 48€", "color": "Black", "image": "images/tpu_85A/Black.jpg", "spool": {"stock": 1, "incoming": 0}},
 
 
