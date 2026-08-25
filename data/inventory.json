@@ -211,7 +211,7 @@
 
 
 {"material": "Build Plate (X1, P1, A1, P2)", "color": "Smooth and Textured PEI - 35€", "image": "images/build_plates/Smooth_and_Textured_PEI.jpg", "quantity": {"stock": 1, "incoming": 0}},
-{"material": "Build Plate (X1, P1, A1, P2)", "color": "Cool Plate (SuperTack) - 32€", "image": "images/build_plates/Cool_Plate.jpg", "quantity": {"stock": 1, "incoming": 0}},
+{"material": "Build Plate (X1, P1, A1, P2)", "color": "Cool Plate (SuperTack) - 32€", "image": "images/build_plates/Cool_Plate.jpg", "quantity": {"stock": 0, "incoming": 0}},
 {"material": "Build Plate (X1, P1, A1, P2)", "color": "Diamond 3D Effect - 18€", "image": "images/build_plates/Diamond_3D_Effect.jpg", "quantity": {"stock": 1, "incoming": 0}},
 {"material": "Build Plate (X1, P1, A1, P2)", "color": "Galaxy 3D Effect - 18€", "image": "images/build_plates/Galaxy_3D_Effect.jpg", "quantity": {"stock": 1, "incoming": 0}},
 
