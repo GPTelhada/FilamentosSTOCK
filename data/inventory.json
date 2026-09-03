@@ -152,7 +152,7 @@
 
 
 {"material": "PETG HF", "color": "White", "image": "images/petg_hf/White.jpg", "spool": {"stock": 5, "incoming": 0}},
-{"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PETG HF", "color": "Black", "image": "images/petg_hf/Black.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG HF", "color": "Dark Gray", "image": "images/petg_hf/DarkGray.jpg", "spool": {"stock": 14, "incoming": 0}},
 {"material": "PETG HF", "color": "Gray", "image": "images/petg_hf/Gray.jpg", "spool": {"stock": 6, "incoming": 0}},
 {"material": "PETG HF", "color": "Blue", "image": "images/petg_hf/Blue.jpg", "spool": {"stock": 6, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
