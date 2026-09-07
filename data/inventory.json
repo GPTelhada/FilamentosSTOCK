@@ -75,7 +75,7 @@
 {"material": "PLA Silk", "color": "Champagne", "image": "images/pla_silk/Champagne.jpg", "spool": {"stock": 1, "incoming": 0}},
 {"material": "PLA Silk", "color": "Rose Gold", "image": "images/pla_silk/RoseGold.jpg", "spool": {"stock": 3, "incoming": 0}},
 {"material": "PLA Silk", "color": "Gold", "image": "images/pla_silk/Gold.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 9, "incoming": 0}},
-{"material": "PLA Silk", "color": "Silver", "image": "images/pla_silk/Silver.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
+{"material": "PLA Silk", "color": "Silver", "image": "images/pla_silk/Silver.jpg", "spool": {"stock": 0, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk", "color": "Titan Gray", "image": "images/pla_silk/TitanGray.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 
 
