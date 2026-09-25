@@ -170,7 +170,7 @@
 
 
 
-{"material": "PETG Translucent", "color": "Translucent Clear", "image": "images/petg_translucent/Clear.jpg", "spool": {"stock": 3, "incoming": 0}, "refill": {"stock": 1, "incoming": 0}},
+{"material": "PETG Translucent", "color": "Translucent Clear", "image": "images/petg_translucent/Clear.jpg", "spool": {"stock": 3, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG Translucent", "color": "Translucent Teal", "image": "images/petg_translucent/Teal.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 3, "incoming": 0}},
 {"material": "PETG Translucent", "color": "Translucent Light Blue", "image": "images/petg_translucent/LightBlue.jpg", "spool": {"stock": 1, "incoming": 0}, "refill": {"stock": 0, "incoming": 0}},
 {"material": "PETG Translucent", "color": "Translucent Purple", "image": "images/petg_translucent/Purple.jpg", "refill": {"stock": 3, "incoming": 0}},
