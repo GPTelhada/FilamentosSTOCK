@@ -12,7 +12,7 @@
 {"material": "PLA Basic", "color": "Bright Green", "image": "images/pla_basic/BrightGreen.jpg", "refill": {"stock": 1, "incoming": 1}},
 {"material": "PLA Basic", "color": "Bambu Green", "image": "images/pla_basic/BambuGreen.jpg", "spool": {"stock": 0, "incoming": 2}, "refill": {"stock": 4, "incoming": 0}},
 {"material": "PLA Basic", "color": "Mistletoe Green", "image": "images/pla_basic/MistletoeGreen.jpg", "spool": {"stock": 3, "incoming": 1}, "refill": {"stock": 2, "incoming": 0}},
-{"material": "PLA Basic", "color": "Turquoise", "image": "images/pla_basic/Turquoise.jpg", "refill": {"stock": 2, "incoming": 1}},
+{"material": "PLA Basic", "color": "Turquoise", "image": "images/pla_basic/Turquoise.jpg", "refill": {"stock": 3, "incoming": 0}},
 {"material": "PLA Basic", "color": "Cyan", "image": "images/pla_basic/Cyan.jpg", "spool": {"stock": 4, "incoming": 0}, "refill": {"stock": 2, "incoming": 0}},
 {"material": "PLA Basic", "color": "Cobalt Blue", "image": "images/pla_basic/CobaltBlue.jpg", "refill": {"stock": 2, "incoming": 0}},
 {"material": "PLA Basic", "color": "Blue", "image": "images/pla_basic/Blue.jpg", "spool": {"stock": 0, "incoming": 2}, "refill": {"stock": 2, "incoming": 1}},
