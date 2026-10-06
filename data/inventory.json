@@ -105,7 +105,7 @@
 {"material": "PLA Sparkle - 25€", "color": "Onyx Black Sparkle", "image": "images/pla_sparkle/Onyx.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Galaxy - 25€", "color": "Purple", "image": "images/pla_galaxy/Purple.jpg", "spool": {"stock": 1, "incoming": 0}},
 
-{"material": "PLA Silk Multi-Color - 25€", "color": "Phantom Blue", "image": "images/pla_silk_multi/PhantomBlue.jpg", "spool": {"stock": 1, "incoming": 0}},
+{"material": "PLA Silk Multi-Color - 25€", "color": "Phantom Blue", "image": "images/pla_silk_multi/PhantomBlue.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Aurora Purple", "image": "images/pla_silk_multi/AuroraPurple.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Gilded Rose", "image": "images/pla_silk_multi/GildedRose.jpg", "spool": {"stock": 0, "incoming": 0}},
 {"material": "PLA Silk Multi-Color - 25€", "color": "Velvet Eclipse", "image": "images/pla_silk_multi/VelvetEclipse.jpg", "spool": {"stock": 1, "incoming": 0}},
